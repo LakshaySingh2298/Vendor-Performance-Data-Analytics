@@ -44,7 +44,7 @@ To track vendor performance, sales trends, purchasing activity, inventory positi
 
 ## 📊 Dashboard Preview  
 
-![Vendor Performance Dashboard](screenshots/dashboard_overview.png)
+![Vendor Performance Dashboard](screenshot/real.png)
 
 ---
 
